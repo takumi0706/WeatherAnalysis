@@ -1,0 +1,3 @@
+31602,Hachinohe
+46106,Yokohama
+49142,Kofu
