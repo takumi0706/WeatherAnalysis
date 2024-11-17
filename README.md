@@ -1,35 +1,41 @@
-# Weather Data Analysis
+# Weather data analysis
 
-This repository contains scripts and configuration files for analyzing temperature, humidity, and discomfort index trends in Hachinohe, Yokohama, and Kofu from 2009 to 2022.
+This repository contains scripts and configuration files for analyzing trends in temperature, humidity, and discomfort index for Hachinohe, Yokohama, and Kofu from 2009 to 2022.
 
-## Directory Structure
+## Directory structure
 
-- `scripts/`: Contains shell scripts for data extraction, processing, and plotting.
-- `stations.txt`: List of AMeDAS station numbers for the selected cities.
-- `station_names.txt`: Mapping of station numbers to city names.
+- `scripts/`: Contains shell scripts for extracting, processing, and plotting data.
+- `stations.txt`: A list of the AMeDAS observation station numbers for the selected cities.
+- `station_names.txt`: A table of station numbers and city names.
 - `.gitignore`: Specifies files and directories to be ignored by Git.
 
 ## Usage
 
-1. **Extract Data**:
-    ```bash
-    ./scripts/extract_data.sh
-    ```
+1. **Extracting the data**:
+```bash
+vi /scripts/extract_data.sh
+```
+Please adapt the settings for specifying the working directory to your environment.
+Specify the location of the AMeDAS data in MULTI_DATA.
+```bash.
+/scripts/extract_data.sh
+```
 
-2. **Process Data**:
-    ```bash
-    ./scripts/process_data.sh
-    ```
+2. **Data processing**:
+```bash.
+/scripts/process_data.sh
+```
 
-3. **Plot Data**:
-    ```bash
-    ./scripts/plot_data.sh
-    ```
+3. **Data plotting**:
+```bash.
+/scripts/plot_data.sh
+```
 
-4. **Run All Steps Sequentially**:
-    ```bash
-    ./scripts/run_all.sh
-    ```
+4. **Executing all steps sequentially**:
+```bash.
+/scripts/run_all.sh
+```
+
 
 ## Requirements
 
