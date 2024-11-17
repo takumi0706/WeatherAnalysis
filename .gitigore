@@ -1,3 +1,9 @@
+# Ignore extracted data directory
+extracted/
+
+# Ignore plots directory
+plots/
+
 # Ignore log files
 *.log
 
