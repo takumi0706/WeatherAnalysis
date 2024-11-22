@@ -1,0 +1,9 @@
+Global Minimum and Maximum Values for Metrics (with Place Names):
+Average Temperature: Min = 9.1 (SAPPORO), Max = 24.1 (NAHA)
+Minimum Temperature: Min = 5.5 (SAPPORO), Max = 21.9 (NAHA)
+Maximum Temperature: Min = 13.0 (SAPPORO), Max = 26.8 (NAHA)
+Temperature Range: Min = 4.6 (NAHA), Max = 11.4 (KOFU)
+Wind Speed: Min = 1.3 (NARA), Max = 5.5 (NAHA)
+Humidity: Min = 58 (KOFU), Max = 80 (NAHA)
+Sunshine Duration: Min = 1431.3 (AKITA), Max = 2461.5 (KOFU)
+Precipitation: Min = 667.5 (TAKAMATSU), Max = 3663.5 (KAGOSHIMA)

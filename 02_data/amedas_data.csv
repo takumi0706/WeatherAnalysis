@@ -1,0 +1,90 @@
+1,アメダス観測所番号（5桁）,AMEDAS Observation Station Number (5 digits)
+2,地上観測所番号（5桁）,Surface Observation Station Number (5 digits)
+3,観測所種別,Observation Station Type
+4,緯度（度）,Latitude (degrees)
+5,緯度（分）,Latitude (minutes)
+6,経度（度）,Longitude (degrees)
+7,経度（分）,Longitude (minutes)
+8,標高,Elevation
+9,雨量計地上の高さ,Height above ground of rain gauge
+10,風向風速計の高さ,Height above ground of anemometer
+11,温度計地上の高さ,Height above ground of thermometers
+12,日照計地上の高さ,Height above ground of daylight meter
+13,全天日射計地上の高さ,Height above ground of all-sky pyranometer
+14,気圧計の高さ,Height above barometer
+15,視程計地上の高さ,Height above ground of visibility meter
+16,観測年月日,Observation Date
+17,観測時間,Observation Time
+18,障害状況識別符,Fault Condition Identifier
+19,降水積算カウンタ,Precipitation Total Counter
+20,前1分間降水量,Precipitation in the last minute
+21,利用フラグ,Usage Flag
+22,降水強度,Precipitation Intensity
+23,利用フラグ,Usage Flag
+24,最大降水強度,Maximum Intensity of Precipitation
+25,利用フラグ,Usage Flag
+26,降水の有無,Presence of Precipitation
+27,利用フラグ,Usage Flag
+28,降水種別,Type of Precipitation
+29,利用フラグ,Usage Flag
+30,障害状況識別符,Fault Condition Identifier
+31,CW風向の最大値,CW Maximum Wind Direction
+32,利用フラグ,Usage Flag
+33,CCW風向の最大値,CCW Maximum Wind Direction
+34,利用フラグ,Usage Flag
+35,最大瞬間風速（3秒移動平均）,Maximum Instantaneous Wind Speed (3-second moving average)
+36,利用フラグ,Usage Flag
+37,最大瞬間風速（3秒移動平均）時の風向（16方位）,Wind Direction (16 directions) at maximum instantaneous wind speed (3-second moving average)
+38,最大瞬間風速（3秒移動平均）時の風向（36方位）,Wind Direction (36 directions) at maximum instantaneous wind speed (3-second moving average)
+39,最小瞬間風速（3秒移動平均）,Minimum Instantaneous Wind Speed (3-second moving average)
+40,利用フラグ,Usage Flag
+41,平均風向（前10分間のベクトル平均）（16方位）,Average Wind Direction (vector average of the last 10 minutes) (16 directions)
+42,利用フラグ,Usage Flag
+43,平均風向（前10分間のベクトル平均）（36方位）,Average Wind Direction (vector average of the last 10 minutes) (36 directions)
+44,利用フラグ,Usage Flag
+45,風程カウンタ,Wind Run Counter
+46,利用フラグ,Usage Flag
+47,風程有効データ数,Number of Valid Data for Wind Run
+48,平均風速（10分移動平均）,Average Wind Speed (10-minute moving average)
+49,利用フラグ,Usage Flag
+50,障害状況識別符,Fault Condition Identifier
+51,気温,Temperature
+52,利用フラグ,Usage Flag
+53,最高気温（前1分間）,Maximum Temperature (last 1 minute)
+54,利用フラグ,Usage Flag
+55,最低気温(前1分間）,Minimum Temperature (last 1 minute)
+56,利用フラグ,Usage Flag
+57,障害状況識別符,Fault Condition Identifier
+58,日照積算カウンタ,Sunshine Accumulation Counter
+59,日照時間,Sunshine Duration
+60,利用フラグ,Usage Flag
+61,障害状況識別符,Fault Condition Identifier
+62,直達日射量,Direct Solar Radiation
+63,利用フラグ,Usage Flag
+64,全天日射量,Global Solar Radiation
+65,利用フラグ,Usage Flag
+66,障害状況識別符,Fault Condition Identifier
+67,積雪の深さ,Depth of Snow Cover
+68,利用フラグ,Usage Flag
+69,障害状況識別符,Fault Condition Identifier
+70,重力加速度,Gravitational Acceleration
+71,現地気圧,Local Pressure
+72,利用フラグ,Usage Flag
+73,海面気圧,Sea Level Pressure
+74,利用フラグ,Usage Flag
+75,最低海面気圧,Minimum Sea Level Pressure
+76,利用フラグ,Usage Flag
+77,障害状況識別符,Fault Condition Identifier
+78,相対湿度,Relative Humidity
+79,利用フラグ,Usage Flag
+80,最小相対湿度,Minimum Relative Humidity
+81,利用フラグ,Usage Flag
+82,蒸気圧,Vapor Pressure
+83,利用フラグ,Usage Flag
+84,露点温度,Dewpoint Temperature
+85,利用フラグ,Usage Flag
+86,障害状況識別符,Fault Condition Identifier
+87,視程,Range of Visibility
+88,利用フラグ,Usage Flag
+89,15分現在天気,15-minute Current Weather
+90,利用フラグ,Usage Flag
