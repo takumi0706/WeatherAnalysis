@@ -1,0 +1,9 @@
+Column,English,日本語
+1,Year,年
+2,Average Yearly Temperature (°C),年間平均気温 (°C)
+3,Minimum Temperature (°C),最低気温の平均 (°C)
+4,Maximum Temperature (°C),年間最高気温の平均 (°C)
+5,Average Wind Speed (m/s),年間平均風速 (m/s)
+6,Average Humidity (%),年間平均湿度 (%)
+7,Total Sunshine Duration (hours),年間日照時間 (時間)
+8,Total Precipitation (mm),年間降水量 (mm)
