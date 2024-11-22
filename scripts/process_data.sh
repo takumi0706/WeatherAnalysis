@@ -15,8 +15,8 @@ awk -F' ' '{
     # 欠損値や異常値のチェック
     if(temp_raw=="" || humidity=="" || temp_raw=="×" || humidity=="×") next;
 
-    # 気温の変換（0.1℃単位から℃へ）
-    temp=temp_raw/10;
+    #気温の変換
+    temp=temp_raw;
 
     # 不快指数の計算
     discomfort_index = 0.81 * temp + 0.01 * humidity * (0.99 * temp - 14.3) + 46.3;
